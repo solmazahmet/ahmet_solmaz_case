@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+.venv/
+.pytest_cache/
+screenshots/*.png
+report.html
+assets/
+*.log
+.idea/
+.vscode/
+.DS_Store
+results.jtl
+report/
